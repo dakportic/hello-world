@@ -1,2 +1,4 @@
 # hello-world
-Hello world example using GitHub
+I love programming. Microsoft Visual Basic used to be my favourite programming language.
+I now like C# and liking Android as well
+
